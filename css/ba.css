@@ -1,0 +1,13 @@
+body {
+   background-color: indigo;
+   background-image: url('ba5.PNG');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover; ;
+
+}
+  h1  {
+  color: white;
+  text-align: center;
+}
+}

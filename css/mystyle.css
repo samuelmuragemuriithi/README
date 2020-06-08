@@ -1,0 +1,31 @@
+body {
+   background-image: url('HOME1.PNG');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+h1 ,legend ,label {
+  color: white;
+  text-align: center;
+}
+h2 {
+  color: white;
+  text-align: center;
+  }
+
+picture { 
+  
+    
+  }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:500;
+  height:90;
+}
+
+  
+}
